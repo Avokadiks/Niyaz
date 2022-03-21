@@ -1775,3 +1775,105 @@ footer img{
     color: #FFFFFF;
     text-decoration: none;
 }
+/* questions */
+.full{
+    margin-top: -176px;
+    
+}
+.container_sec1{
+    width: 980px;
+    height: 713px;
+}
+.all_blocks{
+    display: flex;
+    margin-left: 46px;
+}
+.block{
+    margin-right: 13px;
+}
+.seventeenth_section__cont input{
+    width: 299.92px;
+    height: 60px;
+    background-color: #A9A6A8;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-style: none;
+    margin-right: 60px;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 9px;
+    margin-top: 38px;
+}
+h5{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 18px;
+    width: 201px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+.block_text{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 16px;
+    width: 225px;
+}
+.block_text2{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 16px;
+    width: 205px;
+}
+h1{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 30px;
+    width: 496px;
+    margin-left: 456px;
+    margin-bottom: 138px;
+}
+.bottom_part{
+    align-items: center;
+    
+}
+.seventeenth_section__button2{
+    width: 276px;
+    height: 60px;
+    background-color: #A56492;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 38px;
+}
+.seventeenth_section__button2 h4{
+    font-family: Montserrat;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+}
+h6{
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 38px;
+    margin-left: 298px;
+}
+.bottom_text{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 186px;
+}
+.block2{
+    margin-left: 44px;
+    margin-top: 28px;
+}
+.div_block{
+    display: flex;
+}
